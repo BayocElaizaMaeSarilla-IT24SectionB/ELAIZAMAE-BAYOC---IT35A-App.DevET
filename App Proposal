@@ -1,1 +1,49 @@
+Goal
+Students' outputs must align with the United Nations 2030 Sustainable Development Goals (SDGs). All projects must address real-world issues while contributing to open-source development. The app must clearly state its purpose and how it contributes to specific SDGs.
 
+Role
+A mobile/web app developer, responsible for designing, developing, and deploying an application that leverages technology to solve global challenges while adhering to the SDG framework.
+
+Audience
+Farmers (for agriculture-based solutions aligned with SDG 2: Zero Hunger)
+Communities (for social welfare and inclusion projects linked to SDG 11: Sustainable Cities and Communities)
+Businesses (for economic and environmental sustainability applications, supporting SDG 8: Decent Work and Economic Growth)
+Governments & NGOs (for policy and governance-related applications, aligned with SDG 16: Peace, Justice, and Strong Institutions)
+
+Situation
+Students must identify a real-world issue affecting their chosen audience and provide context for why the problem exists. The app should offer an innovative solution grounded in research and practical implementation.
+
+Products/Performance/Output
+Technically sound (leveraging appropriate software development methodologies)
+Socially responsible & ethical (respecting user privacy, inclusivity, and sustainability principles)
+Impactful in addressing global challenges (clearly demonstrating alignment with SDGs beyond just computing)
+
+
+Objective
+Clearly define the purpose of the app and how it aims to address one or more SDGs. 
+Example:
+"The AgriConnect app is designed to support small-scale farmers by providing real-time weather data, smart irrigation suggestions, and direct market access to enhance food security and reduce economic disparities. This directly supports SDG 2: Zero Hunger and SDG 13: Climate Action by promoting sustainable agricultural practices and climate resilience."
+
+Key SDGs Targeted
+SDG 2: Zero Hunger – Helps farmers improve crop yield through AI-based climate predictions.
+SDG 8: Decent Work and Economic Growth – Connects farmers to buyers, reducing middlemen and ensuring fair trade.
+SDG 13: Climate Action – Uses IoT sensors and AI for precision farming, minimizing water wastage.
+
+Key Features
+AI-Powered Weather Forecasts – Helps farmers make informed decisions based on upcoming climate patterns.
+Direct Marketplace Integration – Enables farmers to sell their produce directly to consumers, eliminating intermediaries.
+Soil & Irrigation Analytics – Uses IoT sensors to provide real-time data on soil moisture and suggest optimal irrigation schedules.
+
+Technical Architecture
+Frontend & Backend (Mobile/Web App UI/UX)
+Database & APIs (Cloud-based storage & real-time data processing)
+AI/ML Components (Weather prediction, market price analysis)
+IoT Integration (For real-time farm monitoring)
+
+Research & Evidence
+Literature reviews on SDG-related tech solutions.
+Case studies demonstrating the impact of digital innovation on agriculture.
+Citations & References (research papers, UN reports, industry whitepapers).
+
+Conclusion
+The project must be a blend of technical expertise, ethical considerations, and global impact, ensuring that innovation extends beyond computing to solve real-world challenges within the SDG framework. 
